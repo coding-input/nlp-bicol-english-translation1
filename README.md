@@ -33,8 +33,8 @@ The system provides real-time translation capabilities between Bicol and English
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/coding-input/nlp-bicol-english-translation.git
-   cd nlp-bicol-english-translation
+   git clone https://github.com/coding-input/nlp-bicol-english-translation1.git
+   cd nlp-bicol-english-translation1
    ```
 
 2. **Setup Database:**
