@@ -119,8 +119,8 @@ nlp-bicol-english-translation/
 | Name                     | Role                                   |
 | ------------------------ | -------------------------------------- |
 | **Jonas Joshua Marinay** | Project Manager / NLP Integration      |
-| **Zarina Lee Develos**   | Backend Developer / Database Architect |
-| **Honey Faye Ganalon**   | Frontend Developer / UI/UX Designer    |
+| **Zarina Lee Develos**   | Documentation Lead                     |
+| **Honey Faye Ganalon**   | Researcher                             |
 
 ---
 
