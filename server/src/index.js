@@ -2,6 +2,8 @@ const express = require('express');
 const cors = require('cors');
 require('dotenv').config();
 
+const authRoutes = require('./routes/auth');
+
 const app = express();
 const PORT = process.env.PORT || 5000;
 
@@ -12,6 +14,9 @@ app.use(express.json());
 app.get('/api/health', (req, res) => {
   res.json({ status: 'ok', message: 'NLP Translation API is running' });
 });
+
+// Authentication routes
+app.use('/api/auth', authRoutes);
 
 // Translation routes will be added here
 app.get('/api/translate', (req, res) => {
